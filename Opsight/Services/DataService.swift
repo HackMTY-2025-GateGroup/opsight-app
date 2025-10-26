@@ -2,8 +2,6 @@
 //  DataService.swift
 //  Opsight
 //
-//  Created by Claude on 25/10/25.
-//
 
 import Foundation
 import SwiftUI

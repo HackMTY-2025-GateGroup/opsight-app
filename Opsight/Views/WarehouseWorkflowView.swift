@@ -2,8 +2,6 @@
 //  WarehouseWorkflowView.swift
 //  Opsight
 //
-//  Created by Claude on 25/10/25.
-//
 
 import SwiftUI
 import Combine
